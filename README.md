@@ -2,12 +2,14 @@
 
 ## Papers
 
-- **MidiNet: A Convolutional Generative Adversarial Network for Symbolic-domain Music Generation using 1D and 2D Conditions** (2017.3) \[[Arxiv](https://arxiv.org/abs/1703.10847)\] \[[Page](https://richardyang40148.github.io/TheBlog/midinet_arxiv_demo.html)\] 
+- **MidiNet: A Convolutional Generative Adversarial Network for Symbolic-domain Music Generation using 1D and 2D Conditions** (2017.3) [[Arxiv](https://arxiv.org/abs/1703.10847)] [[Page](https://richardyang40148.github.io/TheBlog/midinet_arxiv_demo.html)] 
 
 
-- **C-RNN-GAN: Continuous recurrent neural networks with adversarial training** (2016.11) \[[Arxiv](https://arxiv.org/abs/1611.09904)\]\[[Code](https://github.com/olofmogren/c-rnn-gan)\]
+- **C-RNN-GAN: Continuous recurrent neural networks with adversarial training** (2016.11) [[Arxiv](https://arxiv.org/abs/1611.09904)] [[Code](https://github.com/olofmogren/c-rnn-gan)]
 
-- **SeqGAN: Sequence Generative Adversarial Nets with Policy Gradient** (**AAAI 2017**) (2016.9) \[[Paper](http://www.aaai.org/ocs/index.php/AAAI/AAAI17/paper/download/14344/14489)\] [[Code](https://github.com/LantaoYu/SeqGAN)]
+- **SeqGAN: Sequence Generative Adversarial Nets with Policy Gradient** - **AAAI 2017** (2016.9) [[Paper](http://www.aaai.org/ocs/index.php/AAAI/AAAI17/paper/download/14344/14489)] [[Code](https://github.com/LantaoYu/SeqGAN)]
+
+- **Song From PI: A Musically Plausible Network for Pop Music Generation** - **ICLR 2017** [[Arxiv](https://arxiv.org/pdf/1611.03477.pdf)]
 
 - **Text-based LSTM networks for Automatic Music Composition** (2016.4) [[Arxiv](https://arxiv.org/abs/1604.05358#)] [[Web](https://keunwoochoi.wordpress.com/2016/02/23/lstmetallica/)] 
 
@@ -24,7 +26,7 @@ Recurrent Neural Networks** (2016.2) [[Web](http://konstilackner.github.io/LSTM-
 
 ## Codes
 
--  **Google Magenta** \[[Web](https://magenta.tensorflow.org/welcome-to-magenta)\] \[[Code](https://github.com/tensorflow/magenta)\] 
+-  **Google Magenta** [[Web](https://magenta.tensorflow.org/welcome-to-magenta)] [[Code](https://github.com/tensorflow/magenta)] 
 
 - **Deep Jazz**  [[Web](https://deepjazz.io/)] [[Code](https://deepjazz.io/)]
 
