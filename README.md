@@ -7,18 +7,19 @@
 
 - **C-RNN-GAN: Continuous recurrent neural networks with adversarial training** (2016.11) [[Arxiv](https://arxiv.org/abs/1611.09904)] [[Code](https://github.com/olofmogren/c-rnn-gan)]
 
+- **Tuning Recurrent Neural Networks with Reinforcement Learning - ICLR 2017** (2016.11) [[Arxiv](https://arxiv.org/pdf/1611.02796v2.pdf)] [[Web](https://magenta.tensorflow.org/2016/11/09/tuning-recurrent-networks-with-reinforcement-learning)] [[Code](https://github.com/tensorflow/magenta/tree/master/magenta/models/rl_tuner)]
+
 - **SeqGAN: Sequence Generative Adversarial Nets with Policy Gradient** - **AAAI 2017** (2016.9) [[Paper](http://www.aaai.org/ocs/index.php/AAAI/AAAI17/paper/download/14344/14489)] [[Code](https://github.com/LantaoYu/SeqGAN)]
 
 - **Song From PI: A Musically Plausible Network for Pop Music Generation** - **ICLR 2017** [[Arxiv](https://arxiv.org/pdf/1611.03477.pdf)]
 
 - **Text-based LSTM networks for Automatic Music Composition** (2016.4) [[Arxiv](https://arxiv.org/abs/1604.05358#)] [[Web](https://keunwoochoi.wordpress.com/2016/02/23/lstmetallica/)] [[Code](https://github.com/keunwoochoi/LSTMetallica)]
 
-- **Composing a melody with long-short term memory (LSTM)
-Recurrent Neural Networks** (2016.2) [[Web](http://konstilackner.github.io/LSTM-RNN-Melody-Composer-Website/)] [[Code](https://github.com/konstilackner/LSTM-RNN-Melody-Composer)] [[Paper](http://konstilackner.github.io/LSTM-RNN-Melody-Composer-Website/Thesis_final01.pdf)]
+- **Composing A Melody with Long-short Term Memory (LSTM) Recurrent Neural Networks** (2016.2) [[Web](http://konstilackner.github.io/LSTM-RNN-Melody-Composer-Website/)] [[Code](https://github.com/konstilackner/LSTM-RNN-Melody-Composer)] [[Paper](http://konstilackner.github.io/LSTM-RNN-Melody-Composer-Website/Thesis_final01.pdf)]
 
-- **AI methods in algorithmic composition: A comprehensive survey** (2013) [[Paper](http://www.jair.org/media/3908/live-3908-7454-jair.pdf)]
+- **AI Methods in Algorithmic Composition: A Comprehensive Survey** (2013) [[Paper](http://www.jair.org/media/3908/live-3908-7454-jair.pdf)]
 
-- **Towards adaptive Music Generation By Reinforcement Learning of Musical Tension** (2010) [[Paper](https://ccrma.stanford.edu/~slegroux/affect/pubs/SMC2010.pdf)]
+- **Towards Adaptive Music Generation By Reinforcement Learning of Musical Tension** (2010) [[Paper](https://ccrma.stanford.edu/~slegroux/affect/pubs/SMC2010.pdf)]
 
 - **A First Look at Music Composition using LSTM Recurrent Neural Networks** (2002) [[Web](http://www.iro.umontreal.ca/~eckdoug/blues/index.html)] [[Paper](http://www.iro.umontreal.ca/~eckdoug/blues/IDSIA-07-02.pdf)]
 
