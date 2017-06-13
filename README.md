@@ -15,9 +15,17 @@
 
 - **Text-based LSTM networks for Automatic Music Composition** (2016.4) [[Arxiv](https://arxiv.org/abs/1604.05358#)] [[Web](https://keunwoochoi.wordpress.com/2016/02/23/lstmetallica/)] [[Code](https://github.com/keunwoochoi/LSTMetallica)]
 
+- **Music Transcription Modelling and Composition Using Deep L    earning** (2016.4) [[Arxiv](https://arxiv.org/pdf/1604.08723.pdf)] [[Code](https://github.com/IraKorshunova/folk-rnn)]
+
 - **Composing A Melody with Long-short Term Memory (LSTM) Recurrent Neural Networks** (2016.2) [[Web](http://konstilackner.github.io/LSTM-RNN-Melody-Composer-Website/)] [[Code](https://github.com/konstilackner/LSTM-RNN-Melody-Composer)] [[Paper](http://konstilackner.github.io/LSTM-RNN-Melody-Composer-Website/Thesis_final01.pdf)]
 
+- **Neural Adaptive Sequential Monte Carlo - NIPS 2015** (2015) [[Paper](http://papers.nips.cc/paper/5961-neural-adaptive-sequential-monte-carlo.pdf)]
+
+- **A Recurrent Latent Variable Model for Sequential Data - NIPS 2015** (2015) [[Paper](http://papers.nips.cc/paper/5653-a-recurrent-latent-variable-model-for-sequential-data.pdf)] [[Code](https://github.com/jych/nips2015_vrnn)]
+
 - **AI Methods in Algorithmic Composition: A Comprehensive Survey** (2013) [[Paper](http://www.jair.org/media/3908/live-3908-7454-jair.pdf)]
+
+- **Modeling Temporal Dependencies in High-dimensional Sequences: Application to Polyphonic Music Generation and Transcription** (2012) [[Arxiv](https://arxiv.org/ftp/arxiv/papers/1206/1206.6392.pdf)] 
 
 - **Towards Adaptive Music Generation By Reinforcement Learning of Musical Tension** (2010) [[Paper](https://ccrma.stanford.edu/~slegroux/affect/pubs/SMC2010.pdf)]
 
