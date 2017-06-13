@@ -5,17 +5,17 @@
 - **MidiNet: A Convolutional Generative Adversarial Network for Symbolic-domain Music Generation using 1D and 2D Conditions** (2017.3) [[Arxiv](https://arxiv.org/abs/1703.10847)] [[Page](https://richardyang40148.github.io/TheBlog/midinet_arxiv_demo.html)] 
 
 
-- **C-RNN-GAN: Continuous recurrent neural networks with adversarial training** (2016.11) [[Arxiv](https://arxiv.org/abs/1611.09904)] [[Code](https://github.com/olofmogren/c-rnn-gan)]
+- **C-RNN-GAN: Continuous Recurrent Neural Networks with Adversarial Training** (2016.11) [[Arxiv](https://arxiv.org/abs/1611.09904)] [[Code](https://github.com/olofmogren/c-rnn-gan)]
 
-- **Tuning Recurrent Neural Networks with Reinforcement Learning - ICLR 2017** (2016.11) [[Arxiv](https://arxiv.org/pdf/1611.02796v2.pdf)] [[Web](https://magenta.tensorflow.org/2016/11/09/tuning-recurrent-networks-with-reinforcement-learning)] [[Code](https://github.com/tensorflow/magenta/tree/master/magenta/models/rl_tuner)]
+- **Tuning Recurrent Neural Networks with Reinforcement Learning - ICLR 2017** (2016.11) [[Arxiv](https://arxiv.org/abs/1611.02796)] [[Web](https://magenta.tensorflow.org/2016/11/09/tuning-recurrent-networks-with-reinforcement-learning)] [[Code](https://github.com/tensorflow/magenta/tree/master/magenta/models/rl_tuner)]
 
 - **SeqGAN: Sequence Generative Adversarial Nets with Policy Gradient** - **AAAI 2017** (2016.9) [[Paper](http://www.aaai.org/ocs/index.php/AAAI/AAAI17/paper/download/14344/14489)] [[Code](https://github.com/LantaoYu/SeqGAN)]
 
-- **Song From PI: A Musically Plausible Network for Pop Music Generation** - **ICLR 2017** [[Arxiv](https://arxiv.org/pdf/1611.03477.pdf)]
+- **Song From PI: A Musically Plausible Network for Pop Music Generation** - **ICLR 2017** [[Arxiv](https://arxiv.org/abs/1611.03477)]
 
 - **Text-based LSTM networks for Automatic Music Composition** (2016.4) [[Arxiv](https://arxiv.org/abs/1604.05358#)] [[Web](https://keunwoochoi.wordpress.com/2016/02/23/lstmetallica/)] [[Code](https://github.com/keunwoochoi/LSTMetallica)]
 
-- **Music Transcription Modelling and Composition Using Deep L    earning** (2016.4) [[Arxiv](https://arxiv.org/pdf/1604.08723.pdf)] [[Code](https://github.com/IraKorshunova/folk-rnn)]
+- **Music Transcription Modelling and Composition Using Deep Learning** (2016.4) [[Arxiv](https://arxiv.org/abs/1604.08723)] [[Code](https://github.com/IraKorshunova/folk-rnn)]
 
 - **Composing A Melody with Long-short Term Memory (LSTM) Recurrent Neural Networks** (2016.2) [[Web](http://konstilackner.github.io/LSTM-RNN-Melody-Composer-Website/)] [[Code](https://github.com/konstilackner/LSTM-RNN-Melody-Composer)] [[Paper](http://konstilackner.github.io/LSTM-RNN-Melody-Composer-Website/Thesis_final01.pdf)]
 
@@ -25,7 +25,7 @@
 
 - **AI Methods in Algorithmic Composition: A Comprehensive Survey** (2013) [[Paper](http://www.jair.org/media/3908/live-3908-7454-jair.pdf)]
 
-- **Modeling Temporal Dependencies in High-dimensional Sequences: Application to Polyphonic Music Generation and Transcription** (2012) [[Arxiv](https://arxiv.org/ftp/arxiv/papers/1206/1206.6392.pdf)] 
+- **Modeling Temporal Dependencies in High-dimensional Sequences: Application to Polyphonic Music Generation and Transcription** (2012) [[Arxiv](https://arxiv.org/abs/1206.6392)] 
 
 - **Towards Adaptive Music Generation By Reinforcement Learning of Musical Tension** (2010) [[Paper](https://ccrma.stanford.edu/~slegroux/affect/pubs/SMC2010.pdf)]
 
@@ -47,7 +47,7 @@
 
 ## Conferences&Workshops
 
-- **ACM MM** - ACM MultiMedia [[Web](http://www.acmmm.org/2017)] (**CCF A**)
+- **ACM MM** - ACM MultiMedia [[Web](http://www.acmmm.org/2017)]
 - **ISMIR** - The International Society of Music Information Retrieval [[Web](http://www.ismir.net/)]
 - **ICASSP** - Conference on Acoustics, Speech and Signal Processing [[Web](http://www.ieee-icassp2017.org/)]
 - **DLM** - Deep Learning for Music Workshop on **IJCNN**  [[Web](http://dorienherremans.com/dlm2017/)]
