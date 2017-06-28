@@ -6,7 +6,9 @@
 
 - **Objective-Reinforced Generative Adversarial Networks (ORGAN) for Sequence Generation Models** (2017.5) [[Arxiv](https://arxiv.org/abs/1705.10843)] [[Code](https://github.com/gablg1/ORGAN)]
 
-- **MidiNet: A Convolutional Generative Adversarial Network for Symbolic-domain Music Generation using 1D and 2D Conditions** (2017.3) [[Arxiv](https://arxiv.org/abs/1703.10847)] [[Page](https://richardyang40148.github.io/TheBlog/midinet_arxiv_demo.html)] 
+- **MidiNet: A Convolutional Generative Adversarial Network for Symbolic-domain Music Generation using 1D and 2D Conditions** - **ISMIR 2017** (2017.3) [[Arxiv](https://arxiv.org/abs/1703.10847)] [[Page](https://richardyang40148.github.io/TheBlog/midinet_arxiv_demo.html)] 
+
+- **Automatic Conversion of Pop Music into Chiptunes for 8-bit Pixel Art** - **ICASSP 2017** (2017.2) [[Paper](http://mac.citi.sinica.edu.tw/~yang/pub/su17icassp_8bit.pdf)] [[Code](https://github.com/LemonATsu/pop-to-8bit)] [[Page](https://lemonatsu.github.io)]
 
 
 - **C-RNN-GAN: Continuous Recurrent Neural Networks with Adversarial Training** (2016.11) [[Arxiv](https://arxiv.org/abs/1611.09904)] [[Code](https://github.com/olofmogren/c-rnn-gan)]
