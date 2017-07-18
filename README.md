@@ -39,6 +39,8 @@
 
 ## Blogs
 
+- **Generative Music with JavaScript & Web Audio** [[Web](https://teropa.info/generative-music-slides/)]
+
 - **The Current State Of AI: Artificial Intelligence In Music, Movies & More** (2017.7) [[Web](http://www.hypebot.com/hypebot/2017/07/ai-today-the-current-state-of-artificial-intelligence.html)]
 - **Composing Music With Recurrent Neural Networks** (2015.8) [[Web](http://www.hexahedria.com/2015/08/03/composing-music-with-recurrent-neural-networks/)] [[Code](https://github.com/hexahedria/biaxial-rnn-music-composition)]
 
