@@ -2,6 +2,8 @@
 
 ## Papers
 
+- **GLSR-VAE: Geodesic Latent Space Regularization for Variational AutoEncoder Architectures** (2017.7) [[Arxiv](https://arxiv.org/abs/1707.04588)]
+
 - **Learning and Evaluating Musical Features with Deep Autoencoders** (2017.6) [[Arxiv](https://arxiv.org/abs/1706.04486)]
 
 - **Objective-Reinforced Generative Adversarial Networks (ORGAN) for Sequence Generation Models** (2017.5) [[Arxiv](https://arxiv.org/abs/1705.10843)] [[Code](https://github.com/gablg1/ORGAN)]
