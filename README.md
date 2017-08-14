@@ -2,6 +2,8 @@
 
 ## Papers
 
+- **Neural Translation of Musical Style** (2017.8) [[Arxiv](https://arxiv.org/abs/1708.03535)] [[Page](http://imanmalik.com/cs/2017/06/05/neural-style.html)]
+
 - **GLSR-VAE: Geodesic Latent Space Regularization for Variational AutoEncoder Architectures** (2017.7) [[Arxiv](https://arxiv.org/abs/1707.04588)]
 
 - **Learning and Evaluating Musical Features with Deep Autoencoders** (2017.6) [[Arxiv](https://arxiv.org/abs/1706.04486)]
