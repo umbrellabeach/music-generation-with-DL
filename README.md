@@ -43,6 +43,8 @@
 
 ## Blogs
 
+- **Neural Nets for Generating Music** [[Web](https://medium.com/@kcimc/neural-nets-for-generating-music-f46dffac21c0)]
+
 - **Generative Music with JavaScript & Web Audio** [[Web](https://teropa.info/generative-music-slides/)]
 
 - **The Current State Of AI: Artificial Intelligence In Music, Movies & More** (2017.7) [[Web](http://www.hypebot.com/hypebot/2017/07/ai-today-the-current-state-of-artificial-intelligence.html)]
