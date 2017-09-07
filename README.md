@@ -2,6 +2,8 @@
 
 ## Papers
 
+- **Deep Learning Techniques for Music Generation - A Survey** (2017.9) [[Arxiv](https://arxiv.org/abs/1709.01620)]
+
 - **Neural Translation of Musical Style** (2017.8) [[Arxiv](https://arxiv.org/abs/1708.03535)] [[Page](http://imanmalik.com/cs/2017/06/05/neural-style.html)]
 
 - **GLSR-VAE: Geodesic Latent Space Regularization for Variational AutoEncoder Architectures** (2017.7) [[Arxiv](https://arxiv.org/abs/1707.04588)]
