@@ -60,17 +60,22 @@
 - **Deep Jazz**  [[Web](https://deepjazz.io/)] [[Code](https://deepjazz.io/)]
 
 - **BachBot** [[Web](http://bachbot.com/)] [[Code](https://github.com/feynmanliang/bachbot/)]
+
 - **WaveNet** [[Code](https://github.com/ibab/tensorflow-wavenet)] (not fully)
+
 - **GRUV** [[Code](https://github.com/MattVitelli/GRUV)]
+
+- **Kulitta** [[Code](https://github.com/donya/Kulitta)]
 
 ## Conferences&Workshops
 
 - **ACM MM** - ACM MultiMedia [[Web](http://www.acmmm.org/2017)]
 - **ISMIR** - The International Society of Music Information Retrieval [[Web](http://www.ismir.net/)]
 - **ICASSP** - Conference on Acoustics, Speech and Signal Processing [[Web](http://www.ieee-icassp2017.org/)]
-- **DLM** - Deep Learning for Music Workshop on **IJCNN**  [[Web](http://dorienherremans.com/dlm2017/)]
+- **DLM** - Deep Learning for Music Workshop [[Web](http://dorienherremans.com/dlm2017/)]
 - **CSMC** - Conference on Computer Simulation of Musical  Creativity [[Web](https://csmc2016.wordpress.com/)]
 - **CCRMA** - Center for Computer Research in Music and Acoustics (Stanford University) [[Web](https://ccrma.stanford.edu/)]
+- **ICMC** - Internatonal Computer Music Conference [[Web](http://www.icmc2017.com/)] [[Lists](http://www.icmc2017.com/cn/page1.html)]
 
 ## Applications
 
