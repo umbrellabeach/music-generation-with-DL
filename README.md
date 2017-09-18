@@ -88,3 +88,4 @@
 - **Amper Music** [[Link](https://www.ampermusic.com/app#/)]
 - **Intelligent Music System** [[Link](http://120.52.72.53/www.intelligentmusicsystems.com/c3pr90ntc0td/vid/tempo_shifting.mp4)]
 - **Unwind** [[Link](http://unwind.ai)]
+- **Tidalcycles** [[Link](https://tidalcycles.org)] [[Video](https://www.youtube.com/watch?v=xoa3OT8ncX0)]
