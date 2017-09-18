@@ -2,6 +2,10 @@
 
 ## Papers
 
+- **Similarity Embedding Network for Unsupervised Sequential Pattern Learning by Playing Music Puzzle Games** （2017.9）[[Arxiv](https://arxiv.org/abs/1709.04384)] [[Page](https://remyhuang.github.io/DJnet)]
+
+- **A Tutorial on Deep Learning for Music Information Retrieval** (2017.9) [[Arxiv](https://arxiv.org/abs/1709.04396)]
+
 - **Deep Learning Techniques for Music Generation - A Survey** (2017.9) [[Arxiv](https://arxiv.org/abs/1709.01620)]
 
 - **Neural Translation of Musical Style** (2017.8) [[Arxiv](https://arxiv.org/abs/1708.03535)] [[Page](http://imanmalik.com/cs/2017/06/05/neural-style.html)]
