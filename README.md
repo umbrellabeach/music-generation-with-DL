@@ -2,6 +2,8 @@
 
 ## Papers
 
+- **MuseGAN: Symbolic-domain Music Generation and Accompaniment with Multi-track Sequential Generative Adversarial Networks** (2017.9) [[Arxiv](https://arxiv.org/abs/1709.06298)] [[Page](https://salu133445.github.io/musegan/)]
+
 - **Similarity Embedding Network for Unsupervised Sequential Pattern Learning by Playing Music Puzzle Games** （2017.9）[[Arxiv](https://arxiv.org/abs/1709.04384)] [[Page](https://remyhuang.github.io/DJnet)]
 
 - **A Tutorial on Deep Learning for Music Information Retrieval** (2017.9) [[Arxiv](https://arxiv.org/abs/1709.04396)]
