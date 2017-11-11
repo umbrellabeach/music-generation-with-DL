@@ -2,6 +2,8 @@
 
 ## Papers
 
+- **Melody Generation for Pop Music via Word Representation of Musical Properties** (2017.10) [[arXiv](https://arxiv.org/abs/1710.11549)] [[Code](https://github.com/mil-tokyo/NeuralMelody)]
+
 - **Generating Nontrivial Melodies for Music as a Service** (2017.10) [[arXiv](https://arxiv.org/abs/1710.02280)] [[Page](https://composing.ai)]
 
 - **MuseGAN: Symbolic-domain Music Generation and Accompaniment with Multi-track Sequential Generative Adversarial Networks** (2017.9) [[arXiv](https://arxiv.org/abs/1709.06298)] [[Page](https://salu133445.github.io/musegan/)]
