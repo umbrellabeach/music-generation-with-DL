@@ -45,7 +45,7 @@
 
 - **A Recurrent Latent Variable Model for Sequential Data - NIPS 2015** (2015) [[Paper](http://papers.nips.cc/paper/5653-a-recurrent-latent-variable-model-for-sequential-data.pdf)] [[Code](https://github.com/jych/nips2015_vrnn)]
 
-- **AI Methods in Algorithmic Composition: A Comprehensive Survey** (2013) [[Paper](http://www.jair.org/media/3908/live-3908-7454-jair.pdf)]
+- **AI Methods in Algorithmic Composition: A Comprehensive Survey** (2013) [[Paper](https://arxiv.org/abs/1402.0585)]
 
 - **Modeling Temporal Dependencies in High-dimensional Sequences: Application to Polyphonic Music Generation and Transcription** (2012) [[arXiv](https://arxiv.org/abs/1206.6392)] 
 
